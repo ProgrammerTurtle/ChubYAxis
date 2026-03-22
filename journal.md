@@ -1,4 +1,4 @@
-# This is the journal of the design and eventual build process of my ender 3 Y axis mod, CHub.
+# This is the journal of the design and eventual build process of my ender 3 Y axis mod, ChubY.
 
 # Total Time Spent:
 
@@ -115,3 +115,32 @@ That leaves the current state of the mod like... this!
 <img width="1666" height="859" alt="image" src="https://github.com/user-attachments/assets/18b92c51-4f61-4ca4-a876-cb5e5463bc5b" />
 
 I really just have some bracing/brackets to model real quick and then I can do all the logistics for submitting. I think this project will run at a bit more than $5/hour, but not by much. 
+
+## Journal Entry 4 2/22/2026
+Time Spent: 1 Hour, roughly 7am-8am
+
+I made the brackets and did the final additions of screws and whatnot. I need to do BOM and logistics for submission ASAP, but. 
+
+<img width="1296" height="880" alt="image" src="https://github.com/user-attachments/assets/e1b8c14e-90c2-4ee7-9a2f-750c852535e8" />
+
+7 brackets total, 4 being on the base 4040 and 3 connecting the 3090 to that base 4040. 
+
+<img width="1059" height="621" alt="image" src="https://github.com/user-attachments/assets/3363a041-e855-4a7f-9766-777ffd3cab5d" />
+
+These are the corner 4040 ones, which are quite fancy. 
+
+<img width="923" height="722" alt="image" src="https://github.com/user-attachments/assets/2d53bdba-bdd2-4cd2-bdf7-bf1cf920f284" />
+
+And these are the 3090 -> 4040 ones, which are not nearly as fancy but are easier to print. 
+Both brackets started as simple L's with holes and then I just messed around adding ribbing/bulk material until it worked out. 
+
+<img width="792" height="514" alt="image" src="https://github.com/user-attachments/assets/f8b8fd37-f7bb-4c22-9e93-c4f6926ba1bc" />
+
+This is an early version of the 4040 corner ones. After this I just did tons of fillets and added 4 more holes. 
+
+<img width="775" height="518" alt="image" src="https://github.com/user-attachments/assets/ff6eb75d-894a-46d3-a477-28d1b394e471" />
+
+That type of thing. The other bracket is just a triangle, so I don't think I really need to show the creation? I made an L, sketched holes, and then made the L a triangle. 
+
+Anyways, I am sleep deprived and cutting it really close to the form closing. So, logistics time. 
+
