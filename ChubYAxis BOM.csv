@@ -1,0 +1,14 @@
+Item,Price,Quantity,Source,Useage
+300mm MGN12H Linear Rail,$28.31,2,https://a.co/d/0eWkF5vn,"Linear Motion, somehow cheaper than alix (tariffs)"
+350mm 3090 Aluminum Extrusion,$27.81,1,https://www.aliexpress.us/item/3256809618764763.html?,"Y Axis Extrusion, rail mounting"
+250mm 4040 Aluminum Extrusion,N/A,1,Already Owned,"Frame Base, needs one more than already present"
+OMC 2004s1 Nema 17 Stepper Motor,13.77,1,https://a.co/d/00oIHjpc,"AWD Motor for y axis, somehow cheaper than alix (tariffs)"
+M8 Screws,N/A,4,Self Purchasing,Assembly
+M5 Screws,N/A,Bulk,Already Owned,Assembly
+M3 Screws,N/A,Bulk,Already Owned,Assembly
+695 Bearings,N/A,2,Already Owned,Double Shear for Motors
+6mm GT2 Pulley 5mm Bore,N/A,2,Already Owned,Power Transmission to Belt
+6mm GT2 Idler 5mm Bore,N/A,2,Already Owned,Belt Rerouting
+Silicone Spacers,N/A,4,Self Purchasing,Bed Leveling
+3030 M3 T Nuts,$5,20,https://www.aliexpress.us/item/3256807638725964.html?,Assembly
+Total,$74.89,,,
