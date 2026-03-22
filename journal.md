@@ -3,7 +3,7 @@
 # Total Time Spent:
 
 ## Journal Entry 1 2/21/2026
-Time Spent: 3 Hours, roughly 6pm-9pm 
+Time Spent: 4 Hours, roughly 6pm-10pm 
 
 Alright. Rework submission deadline is technically passed, but I was told that if I could get it submitted before the form closes, it will be ok. 
 So here it is. One night, one turtle, and one ender 3. 
@@ -46,7 +46,7 @@ And that is 3 hours of progress ! About an hour of the time was spent looking at
 
 
 ## Journal Entry 2 2/22/2026
-Time Spent: 1.75 Hours, roughly 3am to 4:45am
+Time Spent: 2.5 Hours, roughly 1am to 3:30am
 
 Had to take a couple hours break to shower, eat, bring in groceries, etc. my mom is hospitalized currently so I have to pitch in around the house a lot more. 
 
@@ -75,4 +75,43 @@ And then the middle 4 thread into the part from the opposite direction, into hea
 That's all for this entry. I am trying to split it up really well to prove I am not inflating hours. 
 
 ## Journal Entry 3 2/22/2026
-Time Spent: Hours, roughly 5am to
+Time Spent: 4 Hours, roughly 3am to 7am
+
+The past two hours were motor mounting and belt routing. Honestly went a lot smoother and took less time than I expected, this is going quite well. 
+
+<img width="1271" height="988" alt="image" src="https://github.com/user-attachments/assets/3925afa4-79e1-46c6-adb0-2af063c486c8" />
+
+<img width="1385" height="1060" alt="image" src="https://github.com/user-attachments/assets/5ac0a5f7-9212-4f04-8ce3-1aeb4098adf4" />
+
+This is the front assembly. The modules are splti in to two sides, with one having the motor mounted to it and one having the bearing stuck in it. 
+They're pretty simple. One motor, one pulley, one idler. Because I did tensioners on the bed carriage I can make this way more rigid than if it had to do tensioning. Following the theme of Chub, these are super thick. Most walls are over 10mm thick. 
+
+<img width="892" height="568" alt="image" src="https://github.com/user-attachments/assets/eba3f881-40de-4b07-9998-20b929f23645" />
+
+It started super simply with me putting the motor, pulley, and idler where I need them, and then I just built up material wihtout blocking the belt or access to the pulley grub screws. The pulley is in line with the bottom t slot so that the belt can pass through that, while the idler is in line with the tensioner, so the belt can attach to the bed. 
+
+Here is a couple photos to show the progression from super generic basic shapes to the final assembly. 
+
+<img width="810" height="515" alt="image" src="https://github.com/user-attachments/assets/040ec64b-1af6-49e9-bbce-0688c824fa1f" />
+
+<img width="848" height="570" alt="image" src="https://github.com/user-attachments/assets/d7e3ea7e-0a3c-4d88-b2f3-f357784a4315" />
+
+<img width="1009" height="852" alt="image" src="https://github.com/user-attachments/assets/0e7a011c-9c5e-4666-9452-91fb0651b9b8" />
+
+<img width="943" height="766" alt="image" src="https://github.com/user-attachments/assets/b4b615f5-d399-497a-b4fd-170ed5a32984" />
+
+<img width="1065" height="821" alt="image" src="https://github.com/user-attachments/assets/d85d6730-1fb9-42d6-9d0d-12e3d997f00c" />
+
+And then the next photo would be the final version. Fairly straight forward. Oh, the top groove thing is for installing the idler 5mm pin. 
+
+<img width="1261" height="756" alt="image" src="https://github.com/user-attachments/assets/c5d5fed1-3943-46a5-862e-24501c5ed099" />
+
+The rear one is literally just the front one with the bottom mounting holes chopped off, because there is frame in the way. I did not add more mounting holes as it should be able to brace against the frame fine without it. 
+
+<img width="1003" height="852" alt="image" src="https://github.com/user-attachments/assets/8755734a-cf84-48d4-91fb-07693d600d5c" />
+
+That leaves the current state of the mod like... this! 
+
+<img width="1666" height="859" alt="image" src="https://github.com/user-attachments/assets/18b92c51-4f61-4ca4-a876-cb5e5463bc5b" />
+
+I really just have some bracing/brackets to model real quick and then I can do all the logistics for submitting. I think this project will run at a bit more than $5/hour, but not by much. 
