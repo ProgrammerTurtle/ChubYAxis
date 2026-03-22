@@ -1,6 +1,6 @@
-<img width="2193" height="2102" alt="ChubYAxis Main" src="https://github.com/user-attachments/assets/d1292404-8f31-409b-92c4-56f6989aab27" /># This is the journal of the design and eventual build process of my ender 3 Y axis mod, ChubY.
+# This is the journal of the design and eventual build process of my ender 3 Y axis mod, ChubY.
 
-# Total Time Spent:
+# Total Time Spent: 13.25 Hours
 
 ## Journal Entry 1 2/21/2026
 Time Spent: 4 Hours, roughly 6pm-10pm 
