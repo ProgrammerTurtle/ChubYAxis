@@ -1,4 +1,4 @@
-# This is the journal of the design and eventual build process of my ender 3 Y axis mod, ChubY.
+<img width="2193" height="2102" alt="ChubYAxis Main" src="https://github.com/user-attachments/assets/d1292404-8f31-409b-92c4-56f6989aab27" /># This is the journal of the design and eventual build process of my ender 3 Y axis mod, ChubY.
 
 # Total Time Spent:
 
@@ -144,3 +144,12 @@ That type of thing. The other bracket is just a triangle, so I don't think I rea
 
 Anyways, I am sleep deprived and cutting it really close to the form closing. So, logistics time. 
 
+## Journal Entry 5 2/22/2025
+Time Spent: 1.75 Hours, 8am to 9:45pm
+
+God I am so tired I just wanna sleep. I spent an hour cost optimizing the bom and trying to find things that fit. Amazon actually ended up being cheaper for some stuff. And then I made renders and fixed my readme. I am done. Bed time. 
+
+<img width="2193" height="2102" alt="ChubYAxis Main" src="https://github.com/user-attachments/assets/5ecbe04e-494f-4acf-a69c-421ee3a8b0a3" />
+
+<img width="3871" height="1649" alt="ChubYAxis Topdown" src="https://github.com/user-attachments/assets/3d00f42b-bc70-42d6-b253-96869c62982b" />
+![Uploading ChubYAxis Topdown.png…]()
